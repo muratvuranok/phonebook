@@ -1,0 +1,11 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstname": "murat",
+      "lastname": "vuranok",
+      "mail": "muratvuranok@hotmail.com",
+      "phone": "+901234567890"
+    }
+  ]
+}
