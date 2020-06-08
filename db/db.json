@@ -3,9 +3,16 @@
     {
       "id": 1,
       "firstname": "murat",
-      "lastname": "vuranok",
-      "mail": "muratvuranok@hotmail.com",
-      "phone": "+901234567890"
+      "lastname": "sahin",
+      "mail": "mehmet.sahin@hotmail.com",
+      "phone": "+901234567809"
+    },
+    {
+      "id": 2,
+      "firstname": "Test1",
+      "lastname": "Test1",
+      "mail": "Test1",
+      "phone": "Test1"
     }
   ]
 }
